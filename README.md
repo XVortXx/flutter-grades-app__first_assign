@@ -1,3 +1,4 @@
+<img width="615" height="1336" alt="Screenshot 2026-11-11 225349" src="https://github.com/user-attachments/assets/47af52ef-1dee-4d92-b29c-acad1218526c" />
 # 🎓 Student Grade Tracker
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
